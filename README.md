@@ -46,3 +46,7 @@ El programa mostrará un menú interactivo donde podrás:
 - Ingresar un vehículo (seleccionando tipo y datos).
 - Registrar la salida de un vehículo (ingresando la placa).
 - Consultar los vehículos presentes en el parqueadero.
+
+## Diagrama de clases UML 
+<img width="868" height="850" alt="Captura de pantalla 2025-08-09 213330" src="https://github.com/user-attachments/assets/ba8dcd77-5c95-4fce-9aa3-0f72659bfa0c" />
+
