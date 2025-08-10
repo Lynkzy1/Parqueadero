@@ -48,5 +48,6 @@ El programa mostrará un menú interactivo donde podrás:
 - Consultar los vehículos presentes en el parqueadero.
 
 ## Diagrama de clases UML 
-<img width="868" height="850" alt="Captura de pantalla 2025-08-09 213330" src="https://github.com/user-attachments/assets/ba8dcd77-5c95-4fce-9aa3-0f72659bfa0c" />
+<img width="868" height="850" alt="Captura de pantalla 2025-08-09 213330" src="https://github.com/user-attachments/assets/41d6a58c-2528-48ab-8228-328ad8d8a30e" />
+
 
