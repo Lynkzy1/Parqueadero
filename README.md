@@ -46,6 +46,3 @@ El programa mostrará un menú interactivo donde podrás:
 - Ingresar un vehículo (seleccionando tipo y datos).
 - Registrar la salida de un vehículo (ingresando la placa).
 - Consultar los vehículos presentes en el parqueadero.
-
-
-¿Tienes dudas o sugerencias? ¡No dudes en contribuir!
